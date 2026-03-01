@@ -1,2 +1,2 @@
-# Triage Test: PRT + actor gate
-Test repo for pipeline validation.
+# Bot Build Config
+Bot build configuration.
